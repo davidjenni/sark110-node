@@ -8,7 +8,7 @@ Library (and sample app) to communicate with the [SARK100 RF antenna analyzer](h
 not in npm registry yet, so install from github:
 
     $ git clone https://github.com/davidjenni/sark110-node.git
-    $ cd sark110
+    $ cd sark110-node
     $ npm install
 
 ## Start as app:
@@ -25,4 +25,4 @@ runs jshint and mocha tests:
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) W7CF david@davidjenni.com
+Copyright (c) W7CF w7cf@arrl.net
