@@ -1,0 +1,16 @@
+{
+  // see http://www.jshint.com/docs/options/
+  "curly": false,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": "nofunc",
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "boss": true,
+  "eqnull": true,
+  "node": true
+}
+
